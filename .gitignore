@@ -1,0 +1,34 @@
+# Secrets — never commit
+.env
+.env.local
+*.env
+CLAUDE.local.md
+docs/CREDENTIALS.md
+
+# Claude worktrees (internal)
+.claude/worktrees/
+
+# Dependencies
+node_modules/
+mobile/node_modules/
+mobile/www/
+mobile/build/
+
+# Mobile signing keys
+*.keystore
+*.jks
+*.p12
+*.mobileprovision
+mobile/fastlane/google-play-key.json
+mobile/fastlane/report.xml
+mobile/fastlane/screenshots/
+mobile/fastlane/test_output/
+
+# OS files
+.DS_Store
+*.swp
+*.swo
+
+# Editor
+.idea/
+.vscode/
