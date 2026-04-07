@@ -39,7 +39,7 @@ scripts/          Utility and deployment scripts
 ## Quick start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/zugo-bike.git
+git clone https://github.com/ZUGOBIKE/zugo-bike.git
 cd zugo-bike
 npm install
 npm run css:build

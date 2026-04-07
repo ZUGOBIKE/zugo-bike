@@ -45,4 +45,4 @@ Shopify handles products, checkout, and orders. This system supports marketing, 
 - **Hosting:** GitHub Pages (push to main = deployed, no build step)
 - **Store:** Shopify (separate — not managed here)
 - **Architecture:** Browser → GitHub Pages → Supabase (no server-side code)
-- **Live:** https://YOUR_USERNAME.github.io/zugo-bike/
+- **Live:** https://zugobike.github.io/zugo-bike/

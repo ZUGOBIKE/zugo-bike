@@ -12,7 +12,7 @@ git commit -m "description of change"
 git push origin main
 ```
 
-Verify at https://YOUR_USERNAME.github.io/zugo-bike/ after ~60 seconds.
+Verify at https://zugobike.github.io/zugo-bike/ after ~60 seconds.
 
 ## Version format
 
@@ -34,10 +34,10 @@ This compiles `styles/tailwind.css` → `styles/tailwind.out.css`. Commit both f
 
 | Environment | URL |
 |---|---|
-| GitHub Pages | https://YOUR_USERNAME.github.io/zugo-bike/ |
+| GitHub Pages | https://zugobike.github.io/zugo-bike/ |
 | Custom domain | https://YOUR_DOMAIN/ (configure after DNS setup) |
 | Store (Shopify) | https://www.zugobike.com |
-| Repository | https://github.com/YOUR_USERNAME/zugo-bike |
+| Repository | https://github.com/ZUGOBIKE/zugo-bike |
 
 ## Environments
 
